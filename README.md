@@ -11,3 +11,9 @@ Architecture
 * **Generator:** Transposed Convolutions + BatchNorm + ReLU.
 * **Discriminator:** Convolutions + LeakyReLU (0.2) + 0.4 Dropout.
 * **Conditioning:** Class Embedding concatenated to input noise and feature maps.
+
+
+<br>
+
+![GAN Output](Output.png)
+<p align = 'center'><i>Outputs for different input labels</i></p>
